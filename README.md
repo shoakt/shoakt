@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Shoaib</h1>
 <h3 align="center">Data Scientist | Sr. Data Analyst | 5x Microsoft Certified </h3>
 
-<img width="1584" height="396" alt="LinkedIn Banner" src="https://github.com/user-attachments/assets/0342484c-f97c-45dd-a21b-f20a6cce26c0" />
+<img width="1584" height="396" alt="LinkedIn Banner" src="https://github.com/user-attachments/assets/f6ee26f8-ef1a-4953-b5a0-24a2c587f7a3" />
 
 ## Skills
 
