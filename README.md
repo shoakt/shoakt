@@ -45,7 +45,7 @@
   <a href="https://www.youtube.com/@datawithshoaib" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a> -->
-  <a href="https://shoakt.github.io/" target="_blank">
+  <a href="https://shoaibakthar.com/" target="_blank">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=link&logoColor=white" alt="Personal Website" />
   </a>
   <!-- <a href="https://medium.com/@shoakt" target="_blank">
