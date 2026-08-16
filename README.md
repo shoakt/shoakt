@@ -10,7 +10,7 @@
 ## Coding
 
 <p align="left">
-    <a href="https://www.leetcode.com/shoakt" target="_blank">
+    <a href="https://www.leetcode.com/datawithshoaib" target="_blank">
         <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
     </a>
     <a href="https://www.hackerrank.com/profile/shoaibcodes" target="_blank">
@@ -30,10 +30,10 @@
 ## Connect with me
 
 <p align="left">
-  <a href="https://linkedin.com/in/shoakt" target="_blank">
+  <a href="https://linkedin.com/in/datawithshoaib" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://x.com/shoakt_" target="_blank">
+  <a href="https://x.com/datawithshoaib" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (formerly Twitter)" />
   </a>
 <!--   <a href="https://fb.com/datawithshoaib" target="_blank">
